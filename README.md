@@ -7,7 +7,7 @@ An interactive **Q&A Chatbot** built with **LangChain**, **Streamlit**, and **Ol
 ## 🚀 Features
 
 ✅ **Interactive Chat UI** built with Streamlit  
-✅ **Open-source LLM integration** (e.g., Mistral, Llama3, Phi3 via Ollama)  
+✅ **Open-source LLM integration** (e.g., Mistral, Gemma 3, Phi 4 Mini via Ollama)  
 ✅ **LangChain prompt chaining** for structured queries  
 ✅ **Customizable model parameters** (temperature & max tokens)  
 ✅ **LangSmith tracking** for debugging and monitoring model responses  
